@@ -5,4 +5,4 @@ A mobile app made using react native and expo that allows users to get informati
 
 ## How to test 
 - run `npm install` to install all dependencies 
-- - run `npm start` to start a development server  
+- run `npm start` to start a development server  
